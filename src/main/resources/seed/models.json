@@ -1,0 +1,650 @@
+[
+  {
+    "code": "e107",
+    "name": "E107",
+    "dx": 1730,
+    "dy": 1488,
+    "wideCenterGap": true,
+    "rows": [
+      {
+        "tubeCount": 9,
+        "offsetX": 5.0,
+        "offsetY": 0.0
+      },
+      {
+        "tubeCount": 10,
+        "offsetX": 3.5,
+        "offsetY": 1.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 3.0,
+        "offsetY": 2.0
+      },
+      {
+        "tubeCount": 12,
+        "offsetX": 2.5,
+        "offsetY": 3.0
+      },
+      {
+        "tubeCount": 13,
+        "offsetX": 2.0,
+        "offsetY": 4.0
+      },
+      {
+        "tubeCount": 14,
+        "offsetX": 1.5,
+        "offsetY": 5.0
+      },
+      {
+        "tubeCount": 13,
+        "offsetX": 1.0,
+        "offsetY": 6.0
+      },
+      {
+        "tubeCount": 12,
+        "offsetX": 1.5,
+        "offsetY": 7.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 1.0,
+        "offsetY": 8.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 0.5,
+        "offsetY": 9.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 0.0,
+        "offsetY": 10.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 0.5,
+        "offsetY": 11.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 1.0,
+        "offsetY": 12.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 1.5,
+        "offsetY": 13.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 1.5,
+        "offsetY": 14.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 1.0,
+        "offsetY": 15.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 0.5,
+        "offsetY": 16.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 0.0,
+        "offsetY": 17.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 0.5,
+        "offsetY": 18.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 1.0,
+        "offsetY": 19.0
+      },
+      {
+        "tubeCount": 12,
+        "offsetX": 1.5,
+        "offsetY": 20.0
+      },
+      {
+        "tubeCount": 13,
+        "offsetX": 1.0,
+        "offsetY": 21.0
+      },
+      {
+        "tubeCount": 14,
+        "offsetX": 1.5,
+        "offsetY": 22.0
+      },
+      {
+        "tubeCount": 13,
+        "offsetX": 2.0,
+        "offsetY": 23.0
+      },
+      {
+        "tubeCount": 12,
+        "offsetX": 2.5,
+        "offsetY": 24.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 3.0,
+        "offsetY": 25.0
+      },
+      {
+        "tubeCount": 10,
+        "offsetX": 3.5,
+        "offsetY": 26.0
+      },
+      {
+        "tubeCount": 9,
+        "offsetX": 5.0,
+        "offsetY": 27.0
+      }
+    ],
+    "hideCells": [
+      "c_0_1",
+      "c_0_7",
+      "c_1_4",
+      "c_1_5",
+      "c_26_4",
+      "c_26_5",
+      "c_27_1",
+      "c_27_7"
+    ],
+    "blockCells": [
+      "c_21_1",
+      "c_21_11"
+    ],
+    "separators": [
+      {
+        "afterRow": 13,
+        "heightDp": 22
+      }
+    ],
+    "imageFile": "seed-images/model_e107.png",
+    "sourceFile": "类Model_E107.java"
+  },
+  {
+    "code": "e221",
+    "name": "E221",
+    "dx": 1730,
+    "dy": 1488,
+    "wideCenterGap": false,
+    "rows": [
+      {
+        "tubeCount": 11,
+        "offsetX": 5.0,
+        "offsetY": 1.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 3.5,
+        "offsetY": 2.0
+      },
+      {
+        "tubeCount": 19,
+        "offsetX": 3.0,
+        "offsetY": 3.0
+      },
+      {
+        "tubeCount": 24,
+        "offsetX": 2.5,
+        "offsetY": 4.0
+      },
+      {
+        "tubeCount": 25,
+        "offsetX": 2.0,
+        "offsetY": 5.0
+      },
+      {
+        "tubeCount": 28,
+        "offsetX": 1.5,
+        "offsetY": 6.0
+      },
+      {
+        "tubeCount": 31,
+        "offsetX": 1.0,
+        "offsetY": 7.0
+      },
+      {
+        "tubeCount": 32,
+        "offsetX": 1.5,
+        "offsetY": 8.0
+      },
+      {
+        "tubeCount": 33,
+        "offsetX": 1.0,
+        "offsetY": 9.0
+      },
+      {
+        "tubeCount": 36,
+        "offsetX": 0.5,
+        "offsetY": 10.0
+      },
+      {
+        "tubeCount": 37,
+        "offsetX": 0.0,
+        "offsetY": 11.0
+      },
+      {
+        "tubeCount": 36,
+        "offsetX": 0.5,
+        "offsetY": 12.0
+      },
+      {
+        "tubeCount": 39,
+        "offsetX": 1.0,
+        "offsetY": 13.0
+      },
+      {
+        "tubeCount": 40,
+        "offsetX": 1.5,
+        "offsetY": 14.0
+      },
+      {
+        "tubeCount": 41,
+        "offsetX": 1.0,
+        "offsetY": 15.0
+      },
+      {
+        "tubeCount": 42,
+        "offsetX": 1.5,
+        "offsetY": 16.0
+      },
+      {
+        "tubeCount": 41,
+        "offsetX": 2.0,
+        "offsetY": 17.0
+      },
+      {
+        "tubeCount": 42,
+        "offsetX": 2.5,
+        "offsetY": 18.0
+      },
+      {
+        "tubeCount": 43,
+        "offsetX": 3.0,
+        "offsetY": 19.0
+      },
+      {
+        "tubeCount": 44,
+        "offsetX": 3.5,
+        "offsetY": 20.0
+      },
+      {
+        "tubeCount": 43,
+        "offsetX": 5.0,
+        "offsetY": 21.0
+      },
+      {
+        "tubeCount": 44,
+        "offsetX": 3.5,
+        "offsetY": 22.0
+      },
+      {
+        "tubeCount": 45,
+        "offsetX": 5.0,
+        "offsetY": 23.0
+      },
+      {
+        "tubeCount": 44,
+        "offsetX": 3.5,
+        "offsetY": 24.0
+      },
+      {
+        "tubeCount": 45,
+        "offsetX": 5.0,
+        "offsetY": 25.0
+      },
+      {
+        "tubeCount": 45,
+        "offsetX": 5.0,
+        "offsetY": 26.0
+      },
+      {
+        "tubeCount": 44,
+        "offsetX": 3.5,
+        "offsetY": 27.0
+      },
+      {
+        "tubeCount": 45,
+        "offsetX": 5.0,
+        "offsetY": 28.0
+      },
+      {
+        "tubeCount": 44,
+        "offsetX": 3.5,
+        "offsetY": 29.0
+      },
+      {
+        "tubeCount": 43,
+        "offsetX": 5.0,
+        "offsetY": 30.0
+      },
+      {
+        "tubeCount": 44,
+        "offsetX": 3.5,
+        "offsetY": 31.0
+      },
+      {
+        "tubeCount": 43,
+        "offsetX": 3.0,
+        "offsetY": 32.0
+      },
+      {
+        "tubeCount": 42,
+        "offsetX": 2.5,
+        "offsetY": 33.0
+      },
+      {
+        "tubeCount": 41,
+        "offsetX": 2.0,
+        "offsetY": 34.0
+      },
+      {
+        "tubeCount": 42,
+        "offsetX": 1.5,
+        "offsetY": 35.0
+      },
+      {
+        "tubeCount": 41,
+        "offsetX": 1.0,
+        "offsetY": 36.0
+      },
+      {
+        "tubeCount": 40,
+        "offsetX": 1.5,
+        "offsetY": 37.0
+      },
+      {
+        "tubeCount": 39,
+        "offsetX": 1.0,
+        "offsetY": 38.0
+      },
+      {
+        "tubeCount": 36,
+        "offsetX": 0.5,
+        "offsetY": 39.0
+      },
+      {
+        "tubeCount": 37,
+        "offsetX": 0.0,
+        "offsetY": 40.0
+      },
+      {
+        "tubeCount": 36,
+        "offsetX": 0.5,
+        "offsetY": 41.0
+      },
+      {
+        "tubeCount": 33,
+        "offsetX": 1.0,
+        "offsetY": 42.0
+      },
+      {
+        "tubeCount": 32,
+        "offsetX": 1.5,
+        "offsetY": 43.0
+      },
+      {
+        "tubeCount": 31,
+        "offsetX": 1.0,
+        "offsetY": 44.0
+      },
+      {
+        "tubeCount": 28,
+        "offsetX": 1.5,
+        "offsetY": 45.0
+      },
+      {
+        "tubeCount": 25,
+        "offsetX": 2.0,
+        "offsetY": 46.0
+      },
+      {
+        "tubeCount": 24,
+        "offsetX": 2.5,
+        "offsetY": 47.0
+      },
+      {
+        "tubeCount": 19,
+        "offsetX": 3.0,
+        "offsetY": 48.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 3.5,
+        "offsetY": 49.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 5.0,
+        "offsetY": 50.0
+      }
+    ],
+    "hideCells": [],
+    "blockCells": [],
+    "separators": [
+      {
+        "afterRow": 24,
+        "heightDp": 16
+      }
+    ],
+    "imageFile": "seed-images/model_e221.png",
+    "sourceFile": "类Model_E221.java"
+  },
+  {
+    "code": "e222",
+    "name": "E222",
+    "dx": 1730,
+    "dy": 1488,
+    "wideCenterGap": false,
+    "rows": [
+      {
+        "tubeCount": 8,
+        "offsetX": 6.5,
+        "offsetY": 0.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 5.0,
+        "offsetY": 1.0
+      },
+      {
+        "tubeCount": 14,
+        "offsetX": 3.5,
+        "offsetY": 2.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 3.0,
+        "offsetY": 3.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 2.5,
+        "offsetY": 4.0
+      },
+      {
+        "tubeCount": 17,
+        "offsetX": 2.0,
+        "offsetY": 5.0
+      },
+      {
+        "tubeCount": 18,
+        "offsetX": 1.5,
+        "offsetY": 6.0
+      },
+      {
+        "tubeCount": 19,
+        "offsetX": 1.0,
+        "offsetY": 7.0
+      },
+      {
+        "tubeCount": 18,
+        "offsetX": 1.5,
+        "offsetY": 8.0
+      },
+      {
+        "tubeCount": 19,
+        "offsetX": 1.0,
+        "offsetY": 9.0
+      },
+      {
+        "tubeCount": 20,
+        "offsetX": 0.5,
+        "offsetY": 10.0
+      },
+      {
+        "tubeCount": 21,
+        "offsetX": 0.0,
+        "offsetY": 11.0
+      },
+      {
+        "tubeCount": 20,
+        "offsetX": 0.5,
+        "offsetY": 12.0
+      },
+      {
+        "tubeCount": 19,
+        "offsetX": 1.0,
+        "offsetY": 13.0
+      },
+      {
+        "tubeCount": 18,
+        "offsetX": 1.5,
+        "offsetY": 14.0
+      },
+      {
+        "tubeCount": 19,
+        "offsetX": 1.0,
+        "offsetY": 15.0
+      },
+      {
+        "tubeCount": 18,
+        "offsetX": 1.5,
+        "offsetY": 16.0
+      },
+      {
+        "tubeCount": 17,
+        "offsetX": 2.0,
+        "offsetY": 17.0
+      },
+      {
+        "tubeCount": 16,
+        "offsetX": 2.5,
+        "offsetY": 18.0
+      },
+      {
+        "tubeCount": 15,
+        "offsetX": 3.0,
+        "offsetY": 19.0
+      },
+      {
+        "tubeCount": 14,
+        "offsetX": 3.5,
+        "offsetY": 20.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 5.0,
+        "offsetY": 21.0
+      },
+      {
+        "tubeCount": 8,
+        "offsetX": 6.5,
+        "offsetY": 22.0
+      }
+    ],
+    "hideCells": [],
+    "blockCells": [],
+    "separators": [],
+    "imageFile": "seed-images/model_e222.png",
+    "sourceFile": "类Model_E222.java"
+  },
+  {
+    "code": "e302",
+    "name": "E302",
+    "dx": 1730,
+    "dy": 1488,
+    "wideCenterGap": false,
+    "rows": [
+      {
+        "tubeCount": 7,
+        "offsetX": 3.0,
+        "offsetY": 0.0
+      },
+      {
+        "tubeCount": 8,
+        "offsetX": 2.5,
+        "offsetY": 1.0
+      },
+      {
+        "tubeCount": 9,
+        "offsetX": 2.0,
+        "offsetY": 2.0
+      },
+      {
+        "tubeCount": 10,
+        "offsetX": 1.5,
+        "offsetY": 3.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 1.0,
+        "offsetY": 4.0
+      },
+      {
+        "tubeCount": 12,
+        "offsetX": 0.5,
+        "offsetY": 5.0
+      },
+      {
+        "tubeCount": 13,
+        "offsetX": 0.0,
+        "offsetY": 6.0
+      },
+      {
+        "tubeCount": 12,
+        "offsetX": 0.5,
+        "offsetY": 7.0
+      },
+      {
+        "tubeCount": 11,
+        "offsetX": 1.0,
+        "offsetY": 8.0
+      },
+      {
+        "tubeCount": 10,
+        "offsetX": 1.5,
+        "offsetY": 9.0
+      },
+      {
+        "tubeCount": 9,
+        "offsetX": 2.0,
+        "offsetY": 10.0
+      },
+      {
+        "tubeCount": 8,
+        "offsetX": 2.5,
+        "offsetY": 11.0
+      },
+      {
+        "tubeCount": 7,
+        "offsetX": 3.0,
+        "offsetY": 12.0
+      }
+    ],
+    "hideCells": [],
+    "blockCells": [],
+    "separators": [],
+    "imageFile": "seed-images/model_e302.png",
+    "sourceFile": "类Model_E302.java"
+  }
+]

@@ -31,3 +31,17 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 本地配置与凭证（禁止提交） ###
+# 复制 src/main/resources/application-local.yml.example 后使用
+src/main/resources/application-local.yml
+.env
+*.local
+
+### Web 管理端 ###
+ui/node_modules/
+ui/dist/
+ui/.env
+ui/.env.local
+ui/.env.*.local
+!ui/.env.example

@@ -1,0 +1,44 @@
+spring:
+  application:
+    name: wash
+  datasource:
+    url: jdbc:mysql://10.32.22.200:3306/wash?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:1234}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+  jpa:
+    hibernate:
+      ddl-auto: none
+    open-in-view: false
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 6MB
+
+server:
+  port: ${SERVER_PORT:8080}
+
+app:
+  # 为空时使用当前请求的 Host 生成图片绝对地址；生产环境建议显式配置。
+  public-base-url: ${APP_PUBLIC_BASE_URL:}
+  storage:
+    endpoint: ${RUSTFS_ENDPOINT:http://10.32.22.200:9000}
+    access-key: ${RUSTFS_ACCESS_KEY:rustfsadmin}
+    secret-key: ${RUSTFS_SECRET_KEY:rustfsadmin}
+    bucket: ${RUSTFS_BUCKET:wash-model-images}
+    region: ${RUSTFS_REGION:us-east-1}
+    auto-create-bucket: ${RUSTFS_AUTO_CREATE_BUCKET:true}
+    connect-timeout-seconds: ${RUSTFS_CONNECT_TIMEOUT_SECONDS:10}
+    request-timeout-seconds: ${RUSTFS_REQUEST_TIMEOUT_SECONDS:30}
+  seed:
+    enabled: ${APP_SEED_ENABLED:true}
+
+logging:
+  level:
+    com.hls.wash: INFO
